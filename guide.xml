@@ -1,0 +1,583 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="GLOBOSP">
+    <display-name lang="pt">Regionais - rio</display-name>
+    <icon src="https://s.glbimg.com/og/rg/static/portal/img/redeglobo-barra.png" />
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <programme start="20211019003000 +0000" stop="20211019013500 +0000" channel="GLOBOSP">
+    <title lang="pt">Império</title>
+    <desc lang="pt">José Alfredo recebe o resultado do teste de DNA e descobre quem é o pai de Pedro, Lucas e Clara.(n)</desc>
+  </programme>
+  <programme start="20211019013500 +0000" stop="20211019020500 +0000" channel="GLOBOSP">
+    <title lang="pt">Verdades Secretas</title>
+    <desc lang="pt">Alex confessa a Angel que casou com sua mãe para ficar perto dela.(n)</desc>
+  </programme>
+  <programme start="20211019020500 +0000" stop="20211019035500 +0000" channel="GLOBOSP">
+    <title lang="pt">Tela Quente - Depois Daquela Montanha</title>
+    <title lang="en">The Mountain Between Us</title>
+    <desc lang="pt">No aeroporto, um cirurgião com uma emergência médica e uma fotógrafa prestes a se casar decidem fretar um pequeno avião, a fim de chegar em seus destinos dentro do tempo. Quando a aeronave cai em uma região montanhosa coberta por neve, eles se veem obrigados a unir forças para tentar sobreviver.(n)</desc>
+  </programme>
+  <programme start="20211019035500 +0000" stop="20211019044500 +0000" channel="GLOBOSP">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+  <programme start="20211019044500 +0000" stop="20211019052500 +0000" channel="GLOBOSP">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Papo com John Green, autor consagrado por best-sellers como “A Culpa é das estrelas”. O escritor americano, que é também personalidade da internet, fala sobre “Antropoceno: notas sobre a vida na terra”, seu primeiro livro de não-ficção.(n)</desc>
+  </programme>
+  <programme start="20211019052500 +0000" stop="20211019070000 +0000" channel="GLOBOSP">
+    <title lang="pt">Corujão I - Cidade Dos Anjos</title>
+    <title lang="en">City Of Angels</title>
+    <desc lang="pt">Em Los Angeles, uma dedicada cirurgiã fica arrasada quando perde um paciente durante uma operação, no mesmo instante em que um anjo, que estava na sala de cirurgia, começa a se sentir atraído por ela. Em pouco tempo, ele se apaixona pela médica e resolve ficar visível para ela, a fim de poder encontrá-la frequentemente, o que acaba provocando entre os dois uma atração cada vez maior, apesar de ela ter um relacionamento sério com um colega de profissão. O ser celestial não pode sentir calor nem o vento no rosto, o gosto de uma fruta ou o toque da sua amada. Assim, ele cogita deixar de ser um imortal para poder amar e ser amado intensamente.(n)</desc>
+  </programme>
+  <programme start="20211019070000 +0000" stop="20211019090000 +0000" channel="GLOBOSP">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+  </programme>
+  <programme start="20211019090000 +0000" stop="20211019113000 +0000" channel="GLOBOSP">
+    <title lang="pt">Bom Dia Rio</title>
+    <desc lang="pt">As primeiras notícias do Rio de Janeiro, apresentadas por Flávio Fachel, com prestação de serviço, boletins de trânsito e previsão do tempo.(n)</desc>
+  </programme>
+  <programme start="20211019113000 +0000" stop="20211019123000 +0000" channel="GLOBOSP">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+  </programme>
+  <programme start="20211019123000 +0000" stop="20211019134500 +0000" channel="GLOBOSP">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+  </programme>
+  <programme start="20211019134500 +0000" stop="20211019150000 +0000" channel="GLOBOSP">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+  </programme>
+  <programme start="20211019150000 +0000" stop="20211019160000 +0000" channel="GLOBOSP">
+    <title lang="pt">RJ1</title>
+    <desc lang="pt">O telejornal, apresentado por Mariana Gross, exibe as principais notícias do Rio, com prestação de serviço e previsão do tempo.(n)</desc>
+  </programme>
+  <programme start="20211019160000 +0000" stop="20211019162500 +0000" channel="GLOBOSP">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia.(n)</desc>
+  </programme>
+  <programme start="20211019162500 +0000" stop="20211019180000 +0000" channel="GLOBOSP">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+  </programme>
+  <programme start="20211019180000 +0000" stop="20211019194000 +0000" channel="GLOBOSP">
+    <title lang="pt">Sessão da Tarde - De Repente 30</title>
+    <title lang="en">13 Going on 30</title>
+    <desc lang="pt">Em 1987, maltratada pelos colegas na sua festa de 13 anos, garota sonha em ser adulta e acorda em 2004, com 30 anos, como uma poderosa editora de revista de moda em Nova York. Contudo, logo se decepciona com o tipo de mulher que se tornou e tenta recuperar o amor de seu ex-vizinho de adolescência, que está para casar com outra.(n)</desc>
+  </programme>
+  <programme start="20211019194000 +0000" stop="20211019205500 +0000" channel="GLOBOSP">
+    <title lang="pt">Vale a Pena Ver de Novo - O Clone</title>
+    <desc lang="pt">A história acompanha a trajetória de vida de Jade, filha de muçulmanos, e Lucas. A trama de Glória Perez aborda a cultura árabe e a clonagem humana.(n)</desc>
+  </programme>
+  <programme start="20211019205500 +0000" stop="20211019212500 +0000" channel="GLOBOSP">
+    <title lang="pt">Malhação - Sonhos</title>
+    <desc lang="pt">Malhação - Sonhos aborda o amadurecimento dos jovens ao longo da busca pelos seus sonhos e é ambientada, principalmente, em dois universos: a Escola de Arte Ribalta e a Academia de Lutas do Gael.(n)</desc>
+  </programme>
+  <programme start="20211019212500 +0000" stop="20211019221000 +0000" channel="GLOBOSP">
+    <title lang="pt">Nos Tempos do Imperador</title>
+    <desc lang="pt">A novela acompanha momentos importantes da vida de Pilar, Jorge/Samuel, o imperador Dom Pedro II, a imperatriz Teresa Cristina e Luísa, a condessa de Barral, ao longo dos anos, e traz uma história de amor e esperança, com elementos históricos, que remetem aos dias atuais.(n)</desc>
+  </programme>
+  <programme start="20211019221000 +0000" stop="20211019224000 +0000" channel="GLOBOSP">
+    <title lang="pt">RJ2</title>
+    <desc lang="pt">Telejornal que traz as notícias locais, mostrando o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.(n)</desc>
+  </programme>
+  <programme start="20211019224000 +0000" stop="20211019233000 +0000" channel="GLOBOSP">
+    <title lang="pt">Pega Pega</title>
+    <desc lang="pt">'Pega Pega’ vai mostrar como o roubo de 40 milhões de dólares do cofre de um hotel cinco estrelas, praticado por quatro funcionários, afeta a vida de todos os personagens.(n)</desc>
+  </programme>
+  <programme start="20211019233000 +0000" stop="20211020003000 +0000" channel="GLOBOSP">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
+  <programme start="20211020003000 +0000" stop="20211020013500 +0000" channel="GLOBOSP">
+    <title lang="pt">Império</title>
+    <desc lang="pt">Escrita por Aguinaldo Silva, com direção artística de Rogerio Gomes, 'Império' ganhou o Emmy Internacional de Melhor Novela de 2014.(n)</desc>
+  </programme>
+  <programme start="20211020013500 +0000" stop="20211020030000 +0000" channel="GLOBOSP">
+    <title lang="pt">The Masked Singer Brasil</title>
+    <desc lang="pt">Nomes de diferentes áreas se enfrentam em um desafio musical com fantasias de tirar o fôlego e cheias de brasilidade no novo reality show apresentado por Ivete Sangalo.(n)</desc>
+  </programme>
+  <programme start="20211020030000 +0000" stop="20211020035000 +0000" channel="GLOBOSP">
+    <title lang="pt">Verdades Secretas</title>
+    <desc lang="pt">Uma história de amor e obsessão, embalada pelo clima de glamour, poder, desejo, armadilhas e ilusões.(n)</desc>
+  </programme>
+  <programme start="20211020035000 +0000" stop="20211020043000 +0000" channel="GLOBOSP">
+    <title lang="pt">Profissão Repórter</title>
+    <desc lang="pt">Os bastidores da notícia e os desafios da reportagem. Diferentes olhares sob o comando de Caco Barcellos.(n)</desc>
+  </programme>
+  <programme start="20211020043000 +0000" stop="20211020052000 +0000" channel="GLOBOSP">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+  <programme start="20211020052000 +0000" stop="20211020055500 +0000" channel="GLOBOSP">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Apresentado por Pedro Bial, o Conversa com Bial recebe quem faz entretenimento de qualidade e quem pode contribuir em debates relevantes para a sociedade brasileira.(n)</desc>
+  </programme>
+  <programme start="20211020055500 +0000" stop="20211020070000 +0000" channel="GLOBOSP">
+    <title lang="pt">Corujão I - O Filho Eterno</title>
+    <title lang="en">O Filho Eterno</title>
+    <desc lang="pt">O casal Roberto e Cláudia aguarda ansiosamente pela chegada de seu primeiro bebê. Roberto, que é escritor, vê a chegada do filho com esperança e como um ponto de partida para uma mudança completa de vida. Mas toda a áurea de alegria dos pais é transformada em incerteza e medo com a descoberta de que Fabrício, o bebê, é portador da Síndrome de Down. A insatisfação e a vergonha tomam conta do pai, que terá de enfrentar muitos desafios para encontrar o verdadeiro significado da paternidade.(n)</desc>
+  </programme>
+  <programme start="20211020070000 +0000" stop="20211020090000 +0000" channel="GLOBOSP">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+  </programme>
+  <programme start="20211020090000 +0000" stop="20211020113000 +0000" channel="GLOBOSP">
+    <title lang="pt">Bom Dia Rio</title>
+    <desc lang="pt">As primeiras notícias do Rio de Janeiro, apresentadas por Flávio Fachel, com prestação de serviço, boletins de trânsito e previsão do tempo.(n)</desc>
+  </programme>
+  <programme start="20211020113000 +0000" stop="20211020123000 +0000" channel="GLOBOSP">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+  </programme>
+  <programme start="20211020123000 +0000" stop="20211020134500 +0000" channel="GLOBOSP">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+  </programme>
+  <programme start="20211020134500 +0000" stop="20211020150000 +0000" channel="GLOBOSP">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+  </programme>
+  <programme start="20211020150000 +0000" stop="20211020160000 +0000" channel="GLOBOSP">
+    <title lang="pt">RJ1</title>
+    <desc lang="pt">O telejornal, apresentado por Mariana Gross, exibe as principais notícias do Rio, com prestação de serviço e previsão do tempo.(n)</desc>
+  </programme>
+  <programme start="20211020160000 +0000" stop="20211020162500 +0000" channel="GLOBOSP">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia.(n)</desc>
+  </programme>
+  <programme start="20211020162500 +0000" stop="20211020180000 +0000" channel="GLOBOSP">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+  </programme>
+  <programme start="20211020180000 +0000" stop="20211020194500 +0000" channel="GLOBOSP">
+    <title lang="pt">Sessão da Tarde - Eu, Robô</title>
+    <title lang="en">I, Robot</title>
+    <desc lang="pt">No ano de 2035, um policial que odeia a tecnologia é chamado para investigar um assassinato que parece ter sido cometido por um robô, o que pode se tornar uma ameaça em um mundo no qual os robôs, mais fortes que os humanos, são comuns e estão em todos os lares.(n)</desc>
+  </programme>
+  <programme start="20211020194500 +0000" stop="20211020203500 +0000" channel="GLOBOSP">
+    <title lang="pt">Vale a Pena Ver de Novo - O Clone</title>
+    <desc lang="pt">A história acompanha a trajetória de vida de Jade, filha de muçulmanos, e Lucas. A trama de Glória Perez aborda a cultura árabe e a clonagem humana.(n)</desc>
+  </programme>
+  <programme start="20211020203500 +0000" stop="20211020210500 +0000" channel="GLOBOSP">
+    <title lang="pt">Malhação - Sonhos</title>
+    <desc lang="pt">Malhação - Sonhos aborda o amadurecimento dos jovens ao longo da busca pelos seus sonhos e é ambientada, principalmente, em dois universos: a Escola de Arte Ribalta e a Academia de Lutas do Gael.(n)</desc>
+  </programme>
+  <programme start="20211020210500 +0000" stop="20211020214500 +0000" channel="GLOBOSP">
+    <title lang="pt">Nos Tempos do Imperador</title>
+    <desc lang="pt">A novela acompanha momentos importantes da vida de Pilar, Jorge/Samuel, o imperador Dom Pedro II, a imperatriz Teresa Cristina e Luísa, a condessa de Barral, ao longo dos anos, e traz uma história de amor e esperança, com elementos históricos, que remetem aos dias atuais.(n)</desc>
+  </programme>
+  <programme start="20211020214500 +0000" stop="20211020221500 +0000" channel="GLOBOSP">
+    <title lang="pt">RJ2</title>
+    <desc lang="pt">Telejornal que traz as notícias locais, mostrando o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.(n)</desc>
+  </programme>
+  <programme start="20211020221500 +0000" stop="20211020230000 +0000" channel="GLOBOSP">
+    <title lang="pt">Pega Pega</title>
+    <desc lang="pt">'Pega Pega’ vai mostrar como o roubo de 40 milhões de dólares do cofre de um hotel cinco estrelas, praticado por quatro funcionários, afeta a vida de todos os personagens.(n)</desc>
+  </programme>
+  <programme start="20211020230000 +0000" stop="20211020233500 +0000" channel="GLOBOSP">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
+  <programme start="20211020233500 +0000" stop="20211021002000 +0000" channel="GLOBOSP">
+    <title lang="pt">Império</title>
+    <desc lang="pt">Escrita por Aguinaldo Silva, com direção artística de Rogerio Gomes, 'Império' ganhou o Emmy Internacional de Melhor Novela de 2014.(n)</desc>
+  </programme>
+  <programme start="20211021002000 +0000" stop="20211021023000 +0000" channel="GLOBOSP">
+    <title lang="pt">Futebol</title>
+    <desc lang="pt">Athletico-PR x Flamengo.(n)</desc>
+  </programme>
+  <programme start="20211021023000 +0000" stop="20211021024500 +0000" channel="GLOBOSP">
+    <title lang="pt">Segue o Jogo</title>
+    <desc lang="pt">Lucas Gutierrez comanda o programa que aborda os jogos de forma leve e divertida, com influência da internet, explorando memes, grandes imagens da rodada e até figurinhas das redes sociais. As análises de jogadas, lances polêmicos e desempenho das equipes ficam a cargo do comentarista Paulo Nunes.(n)</desc>
+  </programme>
+  <programme start="20211021024500 +0000" stop="20211021033500 +0000" channel="GLOBOSP">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+  <programme start="20211021033500 +0000" stop="20211021041500 +0000" channel="GLOBOSP">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Apresentado por Pedro Bial, o Conversa com Bial recebe quem faz entretenimento de qualidade e quem pode contribuir em debates relevantes para a sociedade brasileira.(n)</desc>
+  </programme>
+  <programme start="20211021041500 +0000" stop="20211021052500 +0000" channel="GLOBOSP">
+    <title lang="pt">Corujão I - Alerta De Sequestro</title>
+    <title lang="en">Amber Alert</title>
+    <desc lang="pt">Um homem com cerca de 20 anos está com a mãe doente, mas não possui dinheiro. Decidido a ajudá-la, ele entra em um ônibus repleto de crianças e faz elas reféns, pedindo dinheiro para poder ajudar a mãe doente. Enquanto isso, uma detetive precisa superar as dúvidas da família e de colegas de trabalho para conseguir negociar com o sequestrador.(n)</desc>
+  </programme>
+  <programme start="20211021052500 +0000" stop="20211021070000 +0000" channel="GLOBOSP">
+    <title lang="pt">Corujão II - Vou Nadar Até Você</title>
+    <title lang="en">Vou Nadar Até Você</title>
+    <desc lang="pt">A jovem fotógrafa Ophelia acredita ter descoberto quem é seu pai e sai de Santos, a nado, rumo a Ubatuba, onde espera encontrá-lo. Antes de partir, ela envia uma carta avisando que está a caminho.(n)</desc>
+  </programme>
+  <programme start="20211021070000 +0000" stop="20211021090000 +0000" channel="GLOBOSP">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+  </programme>
+  <programme start="20211021090000 +0000" stop="20211021113000 +0000" channel="GLOBOSP">
+    <title lang="pt">Bom Dia Rio</title>
+    <desc lang="pt">As primeiras notícias do Rio de Janeiro, apresentadas por Flávio Fachel, com prestação de serviço, boletins de trânsito e previsão do tempo.(n)</desc>
+  </programme>
+  <programme start="20211021113000 +0000" stop="20211021123000 +0000" channel="GLOBOSP">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+  </programme>
+  <programme start="20211021123000 +0000" stop="20211021134500 +0000" channel="GLOBOSP">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+  </programme>
+  <programme start="20211021134500 +0000" stop="20211021150000 +0000" channel="GLOBOSP">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+  </programme>
+  <programme start="20211021150000 +0000" stop="20211021160000 +0000" channel="GLOBOSP">
+    <title lang="pt">RJ1</title>
+    <desc lang="pt">O telejornal, apresentado por Mariana Gross, exibe as principais notícias do Rio, com prestação de serviço e previsão do tempo.(n)</desc>
+  </programme>
+  <programme start="20211021160000 +0000" stop="20211021162500 +0000" channel="GLOBOSP">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia.(n)</desc>
+  </programme>
+  <programme start="20211021162500 +0000" stop="20211021180000 +0000" channel="GLOBOSP">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+  </programme>
+  <programme start="20211021180000 +0000" stop="20211021194000 +0000" channel="GLOBOSP">
+    <title lang="pt">Sessão da Tarde - Um Dia</title>
+    <title lang="en">One Day</title>
+    <desc lang="pt">Emma e Dexter se conheceram na faculdade, em 15 de julho. Esta data serve de base para acompanhar a vida deles ao longo de 20 anos. Neste período, Emma enfrenta dificuldades para ser bem sucedida na carreira, enquanto Dexter consegue sucesso fácil, tanto no trabalho quanto com as mulheres. A vida de ambos passa por várias outras pessoas, mas sempre está, de alguma forma, interligada.(n)</desc>
+  </programme>
+  <programme start="20211021194000 +0000" stop="20211021205500 +0000" channel="GLOBOSP">
+    <title lang="pt">Vale a Pena Ver de Novo - O Clone</title>
+    <desc lang="pt">A história acompanha a trajetória de vida de Jade, filha de muçulmanos, e Lucas. A trama de Glória Perez aborda a cultura árabe e a clonagem humana.(n)</desc>
+  </programme>
+  <programme start="20211021205500 +0000" stop="20211021212500 +0000" channel="GLOBOSP">
+    <title lang="pt">Malhação - Sonhos</title>
+    <desc lang="pt">Malhação - Sonhos aborda o amadurecimento dos jovens ao longo da busca pelos seus sonhos e é ambientada, principalmente, em dois universos: a Escola de Arte Ribalta e a Academia de Lutas do Gael.(n)</desc>
+  </programme>
+  <programme start="20211021212500 +0000" stop="20211021221000 +0000" channel="GLOBOSP">
+    <title lang="pt">Nos Tempos do Imperador</title>
+    <desc lang="pt">A novela acompanha momentos importantes da vida de Pilar, Jorge/Samuel, o imperador Dom Pedro II, a imperatriz Teresa Cristina e Luísa, a condessa de Barral, ao longo dos anos, e traz uma história de amor e esperança, com elementos históricos, que remetem aos dias atuais.(n)</desc>
+  </programme>
+  <programme start="20211021221000 +0000" stop="20211021224000 +0000" channel="GLOBOSP">
+    <title lang="pt">RJ2</title>
+    <desc lang="pt">Telejornal que traz as notícias locais, mostrando o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.(n)</desc>
+  </programme>
+  <programme start="20211021224000 +0000" stop="20211021233000 +0000" channel="GLOBOSP">
+    <title lang="pt">Pega Pega</title>
+    <desc lang="pt">'Pega Pega’ vai mostrar como o roubo de 40 milhões de dólares do cofre de um hotel cinco estrelas, praticado por quatro funcionários, afeta a vida de todos os personagens.(n)</desc>
+  </programme>
+  <programme start="20211021233000 +0000" stop="20211022003000 +0000" channel="GLOBOSP">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
+  <programme start="20211022003000 +0000" stop="20211022014000 +0000" channel="GLOBOSP">
+    <title lang="pt">Império</title>
+    <desc lang="pt">Escrita por Aguinaldo Silva, com direção artística de Rogerio Gomes, 'Império' ganhou o Emmy Internacional de Melhor Novela de 2014.(n)</desc>
+  </programme>
+  <programme start="20211022014000 +0000" stop="20211022023000 +0000" channel="GLOBOSP">
+    <title lang="pt">Sob Pressão</title>
+    <desc lang="pt">A quarta temporada se passa no grandioso Hospital Edith de Magalhães. É nesse lugar que os personagens enfrentam o cotidiano caótico de uma emergência pública, mas com a pressão da rotina ainda maior, já que o hospital, localizado agora no centro da cidade, é referência de atendimento.(n)</desc>
+  </programme>
+  <programme start="20211022023000 +0000" stop="20211022031500 +0000" channel="GLOBOSP">
+    <title lang="pt">Verdades Secretas</title>
+    <desc lang="pt">Uma história de amor e obsessão, embalada pelo clima de glamour, poder, desejo, armadilhas e ilusões.(n)</desc>
+  </programme>
+  <programme start="20211022031500 +0000" stop="20211022040500 +0000" channel="GLOBOSP">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+  <programme start="20211022040500 +0000" stop="20211022044500 +0000" channel="GLOBOSP">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Apresentado por Pedro Bial, o Conversa com Bial recebe quem faz entretenimento de qualidade e quem pode contribuir em debates relevantes para a sociedade brasileira.(n)</desc>
+  </programme>
+  <programme start="20211022044500 +0000" stop="20211022070000 +0000" channel="GLOBOSP">
+    <title lang="pt">Corujão I - O Profeta</title>
+    <title lang="en">A Prophet</title>
+    <desc lang="pt">Malik El Djebena, um homem meio árabe e meio córsico, foi condenado a seis anos de prisão. De aparência frágil e com apenas 19 anos, ele chega à penitenciária sozinho. Logo recebe uma série de missões a serem cumpridas, ordenadas por César Luciani, o líder da facção dos córsicos. Aos poucos, conquista a confiança de todos e começa a pôr em ação os planos que tem em mente.(n)</desc>
+  </programme>
+  <programme start="20211022070000 +0000" stop="20211022090000 +0000" channel="GLOBOSP">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+  </programme>
+  <programme start="20211022090000 +0000" stop="20211022113000 +0000" channel="GLOBOSP">
+    <title lang="pt">Bom Dia Rio</title>
+    <desc lang="pt">As primeiras notícias do Rio de Janeiro, apresentadas por Flávio Fachel, com prestação de serviço, boletins de trânsito e previsão do tempo.(n)</desc>
+  </programme>
+  <programme start="20211022113000 +0000" stop="20211022123000 +0000" channel="GLOBOSP">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+  </programme>
+  <programme start="20211022123000 +0000" stop="20211022134500 +0000" channel="GLOBOSP">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+  </programme>
+  <programme start="20211022134500 +0000" stop="20211022150000 +0000" channel="GLOBOSP">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+  </programme>
+  <programme start="20211022150000 +0000" stop="20211022160000 +0000" channel="GLOBOSP">
+    <title lang="pt">RJ1</title>
+    <desc lang="pt">O telejornal, apresentado por Mariana Gross, exibe as principais notícias do Rio, com prestação de serviço e previsão do tempo.(n)</desc>
+  </programme>
+  <programme start="20211022160000 +0000" stop="20211022162500 +0000" channel="GLOBOSP">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia.(n)</desc>
+  </programme>
+  <programme start="20211022162500 +0000" stop="20211022180000 +0000" channel="GLOBOSP">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+  </programme>
+  <programme start="20211022180000 +0000" stop="20211022194000 +0000" channel="GLOBOSP">
+    <title lang="pt">Sessao Da Tarde - Casamento Grego 2</title>
+    <title lang="en">My Big Fat Greek Wedding 2</title>
+    <desc lang="pt">Toula e Ian continuam juntos e passam bastante tempo tentando compreender a problemática filha adolescente. Quando o casal descobre que uma união de sua família nunca foi oficializada pela religião, todos os Portokalos se reúnem para mais um grande casamento grego.(n)</desc>
+  </programme>
+  <programme start="20211022194000 +0000" stop="20211022205500 +0000" channel="GLOBOSP">
+    <title lang="pt">Vale a Pena Ver de Novo - O Clone</title>
+    <desc lang="pt">A história acompanha a trajetória de vida de Jade, filha de muçulmanos, e Lucas. A trama de Glória Perez aborda a cultura árabe e a clonagem humana.(n)</desc>
+  </programme>
+  <programme start="20211022205500 +0000" stop="20211022212500 +0000" channel="GLOBOSP">
+    <title lang="pt">Malhação - Sonhos</title>
+    <desc lang="pt">Malhação - Sonhos aborda o amadurecimento dos jovens ao longo da busca pelos seus sonhos e é ambientada, principalmente, em dois universos: a Escola de Arte Ribalta e a Academia de Lutas do Gael.(n)</desc>
+  </programme>
+  <programme start="20211022212500 +0000" stop="20211022221000 +0000" channel="GLOBOSP">
+    <title lang="pt">Nos Tempos do Imperador</title>
+    <desc lang="pt">A novela acompanha momentos importantes da vida de Pilar, Jorge/Samuel, o imperador Dom Pedro II, a imperatriz Teresa Cristina e Luísa, a condessa de Barral, ao longo dos anos, e traz uma história de amor e esperança, com elementos históricos, que remetem aos dias atuais.(n)</desc>
+  </programme>
+  <programme start="20211022221000 +0000" stop="20211022224000 +0000" channel="GLOBOSP">
+    <title lang="pt">RJ2</title>
+    <desc lang="pt">Telejornal que traz as notícias locais, mostrando o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.(n)</desc>
+  </programme>
+  <programme start="20211022224000 +0000" stop="20211022233000 +0000" channel="GLOBOSP">
+    <title lang="pt">Pega Pega</title>
+    <desc lang="pt">'Pega Pega’ vai mostrar como o roubo de 40 milhões de dólares do cofre de um hotel cinco estrelas, praticado por quatro funcionários, afeta a vida de todos os personagens.(n)</desc>
+  </programme>
+  <programme start="20211022233000 +0000" stop="20211023003000 +0000" channel="GLOBOSP">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
+  <programme start="20211023003000 +0000" stop="20211023013500 +0000" channel="GLOBOSP">
+    <title lang="pt">Império</title>
+    <desc lang="pt">Escrita por Aguinaldo Silva, com direção artística de Rogerio Gomes, 'Império' ganhou o Emmy Internacional de Melhor Novela de 2014.(n)</desc>
+  </programme>
+  <programme start="20211023013500 +0000" stop="20211023022500 +0000" channel="GLOBOSP">
+    <title lang="pt">Globo Repórter</title>
+    <desc lang="pt">Com apresentação de Glória Maria e Sandra Annenberg, o ‘Globo Repórter’ é o jornalístico documental que vai ao ar nas noites de sexta-feira.(n)</desc>
+  </programme>
+  <programme start="20211023022500 +0000" stop="20211023031000 +0000" channel="GLOBOSP">
+    <title lang="pt">Verdades Secretas</title>
+    <desc lang="pt">Uma história de amor e obsessão, embalada pelo clima de glamour, poder, desejo, armadilhas e ilusões.(n)</desc>
+  </programme>
+  <programme start="20211023031000 +0000" stop="20211023040000 +0000" channel="GLOBOSP">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+  <programme start="20211023040000 +0000" stop="20211023044000 +0000" channel="GLOBOSP">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Apresentado por Pedro Bial, o Conversa com Bial recebe quem faz entretenimento de qualidade e quem pode contribuir em debates relevantes para a sociedade brasileira.(n)</desc>
+  </programme>
+  <programme start="20211023044000 +0000" stop="20211023060500 +0000" channel="GLOBOSP">
+    <title lang="pt">Corujão I - A Entrevista</title>
+    <title lang="en">The Interview</title>
+    <desc lang="pt">Cansados de fazerem entrevistas apenas com celebridades, um famoso apresentador de um popular programa de televisão e seu produtor decidem buscar uma linha mais séria de jornalismo. Eles conseguem marcar uma entrevista com o ditador Kim Jong-Un, da Coreia do Norte. Sabendo disso, a CIA decide convocar os dois sujeitos para um plano para assassinar o ditador. A coisa só complica um pouco quando o apresentador começa a se identificar com os dramas vividos pelo governante.(n)</desc>
+  </programme>
+  <programme start="20211023060500 +0000" stop="20211023085500 +0000" channel="GLOBOSP">
+    <title lang="pt">Corujão II - O Banquete</title>
+    <title lang="en">O Banquete</title>
+    <desc lang="pt">Fim da década de 80, Brasil. Apesar de ter retornado à democracia, o país ainda vive uma época de extrema instabilidade política e incerteza geral. Em meio a este clima de desconfiança, uma jornalista descobre segredos podres sobre o presidente do país, que ameaçarão ainda mais o frágil equilíbrio da nação.(n)</desc>
+  </programme>
+  <programme start="20211023085500 +0000" stop="20211023095000 +0000" channel="GLOBOSP">
+    <title lang="pt">Como Será?</title>
+    <desc lang="pt">Reportagens sobre cidadania, educação, ecologia, trabalho e inovação, com apresentação de Sandra Annenberg.(n)</desc>
+  </programme>
+  <programme start="20211023095000 +0000" stop="20211023150000 +0000" channel="GLOBOSP">
+    <title lang="pt">É de Casa</title>
+    <desc lang="pt">Ana Furtado, André Marques, Cissa Guimarães e Patrícia Poeta comandam programa de variedades das manhãs de sábado, ao vivo.(n)</desc>
+  </programme>
+  <programme start="20211023150000 +0000" stop="20211023160000 +0000" channel="GLOBOSP">
+    <title lang="pt">RJ1</title>
+    <desc lang="pt">O telejornal, apresentado por Mariana Gross, exibe as principais notícias do Rio, com prestação de serviço e previsão do tempo.(n)</desc>
+  </programme>
+  <programme start="20211023160000 +0000" stop="20211023162500 +0000" channel="GLOBOSP">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia.(n)</desc>
+  </programme>
+  <programme start="20211023162500 +0000" stop="20211023171000 +0000" channel="GLOBOSP">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+  </programme>
+  <programme start="20211023171000 +0000" stop="20211023181500 +0000" channel="GLOBOSP">
+    <title lang="pt">O Melhor Da Escolinha</title>
+    <desc lang="pt">Em 'O Melhor da Escolinha', o público verá uma seleção de episódios da quarta, quinta e sexta temporadas, exibidas originalmente em 2018, 2019 e 2020.(n)</desc>
+  </programme>
+  <programme start="20211023181500 +0000" stop="20211023194500 +0000" channel="GLOBOSP">
+    <title lang="pt">Sessão De Sábado - De Volta Para O Futuro</title>
+    <title lang="en">Back To The Future</title>
+    <desc lang="pt">Marty McFly é um jovem que acidentalmente viaja em uma máquina do tempo construída pelo cientista Doc Brown. Agora, nos anos 1950, ele vê seus pais que ainda não se apaixonaram. E, para não colocar em risco sua própria existência, Marty precisa agir como cupido entre eles e retornar para sua época.(n)</desc>
+  </programme>
+  <programme start="20211023194500 +0000" stop="20211023213500 +0000" channel="GLOBOSP">
+    <title lang="pt">Caldeirão</title>
+    <desc lang="pt">Apresentado por Marcos Mion, a nova versão do 'Caldeirão' traz alguns quadros já conhecidos do público e atrações inéditas.(n)</desc>
+  </programme>
+  <programme start="20211023213500 +0000" stop="20211023222000 +0000" channel="GLOBOSP">
+    <title lang="pt">Nos Tempos do Imperador</title>
+    <desc lang="pt">A novela acompanha momentos importantes da vida de Pilar, Jorge/Samuel, o imperador Dom Pedro II, a imperatriz Teresa Cristina e Luísa, a condessa de Barral, ao longo dos anos, e traz uma história de amor e esperança, com elementos históricos, que remetem aos dias atuais.(n)</desc>
+  </programme>
+  <programme start="20211023222000 +0000" stop="20211023224500 +0000" channel="GLOBOSP">
+    <title lang="pt">RJ2</title>
+    <desc lang="pt">Telejornal que traz as notícias locais, mostrando o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.(n)</desc>
+  </programme>
+  <programme start="20211023224500 +0000" stop="20211023233000 +0000" channel="GLOBOSP">
+    <title lang="pt">Pega Pega</title>
+    <desc lang="pt">'Pega Pega’ vai mostrar como o roubo de 40 milhões de dólares do cofre de um hotel cinco estrelas, praticado por quatro funcionários, afeta a vida de todos os personagens.(n)</desc>
+  </programme>
+  <programme start="20211023233000 +0000" stop="20211024002500 +0000" channel="GLOBOSP">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
+  <programme start="20211024002500 +0000" stop="20211024013000 +0000" channel="GLOBOSP">
+    <title lang="pt">Império</title>
+    <desc lang="pt">Escrita por Aguinaldo Silva, com direção artística de Rogerio Gomes, 'Império' ganhou o Emmy Internacional de Melhor Novela de 2014.(n)</desc>
+  </programme>
+  <programme start="20211024013000 +0000" stop="20211024021500 +0000" channel="GLOBOSP">
+    <title lang="pt">Vai Que Cola</title>
+    <desc lang="pt">Seleção de episódios da sétima temporada do 'Vai Que Cola', humorístico exibido originalmente no Multishow, na qual o destino da vez é Miami, nos Estados Unidos. O público vai embarcar junto com a trupe e sentir saudades, até mesmo, dos perrengues por aí.(n)</desc>
+  </programme>
+  <programme start="20211024021500 +0000" stop="20211024040500 +0000" channel="GLOBOSP">
+    <title lang="pt">Altas Horas</title>
+    <desc lang="pt">Serginho Groisman comanda a atração, que abre espaço para boa música, encontros inesperados e entrevistas com personalidades.(n)</desc>
+  </programme>
+  <programme start="20211024040500 +0000" stop="20211024051500 +0000" channel="GLOBOSP">
+    <title lang="pt">Seleção Do Samba</title>
+    <desc lang="pt">TV Globo exibe pela primeira vez a escolha dos sambas-enredo do Grupo Especial do Carnaval carioca, em uma parceria com a Liesa, com apresentação de Luis Roberto e comentários de Milton Cunha e Teresa Cristina.(n)</desc>
+  </programme>
+  <programme start="20211024051500 +0000" stop="20211024092500 +0000" channel="GLOBOSP">
+    <title lang="pt">Supercine - A Casa Caiu: Um Cassino Na Vizinhança</title>
+    <title lang="en">The House</title>
+    <desc lang="pt">Scott e Kate se desesperam ao perceber que gastaram o dinheiro que haviam economizado para pagar a faculdade da filha. Sem uma alternativa melhor, eles transformam o porão da casa num cassino ilegal.(n)</desc>
+  </programme>
+  <programme start="20211024092500 +0000" stop="20211024102500 +0000" channel="GLOBOSP">
+    <title lang="pt">Santa Missa</title>
+    <desc lang="pt">Padre Marcelo Rossi celebra todos os domingos missa para todo o Brasil. Mais antigo programa da Globo, a Santa Missa foi transmitida pela primeira vez em fevereiro de 1968.(n)</desc>
+  </programme>
+  <programme start="20211024102500 +0000" stop="20211024105500 +0000" channel="GLOBOSP">
+    <title lang="pt">Globo Comunidade RJ</title>
+    <desc lang="pt">Noticiário que traz assuntos de interesse da comunidade, como qualidade de vida e urbanismo.(n)</desc>
+  </programme>
+  <programme start="20211024105500 +0000" stop="20211024113000 +0000" channel="GLOBOSP">
+    <title lang="pt">Pequenas Empresas &amp; Grandes Negócios</title>
+    <desc lang="pt">Novidades e informação para quem quer investir e empreender no Brasil.(n)</desc>
+  </programme>
+  <programme start="20211024113000 +0000" stop="20211024122500 +0000" channel="GLOBOSP">
+    <title lang="pt">Globo Rural</title>
+    <desc lang="pt">As principais notícias do agronegócio, os índices do setor, informações sobre a vida no campo, além de reportagens especiais.(n)</desc>
+  </programme>
+  <programme start="20211024122500 +0000" stop="20211024130000 +0000" channel="GLOBOSP">
+    <title lang="pt">Auto Esporte</title>
+    <desc lang="pt">As principais notícias sobre o universo dos automóveis.(n)</desc>
+  </programme>
+  <programme start="20211024130000 +0000" stop="20211024153000 +0000" channel="GLOBOSP">
+    <title lang="pt">Esporte Espetacular</title>
+    <desc lang="pt">Além de transmitir partidas e campeonatos ao vivo, o programa semanal apresenta os destaques do mundo esportivo, entrevistas e reportagens especiais.(n)</desc>
+  </programme>
+  <programme start="20211024153000 +0000" stop="20211024173500 +0000" channel="GLOBOSP">
+    <title lang="pt">Temperatura Máxima - Velozes &amp; Furiosos 5 - Operação Rio</title>
+    <title lang="en">Fast Five</title>
+    <desc lang="pt">Dom e Brian continuam fugindo da polícia, e desta vez, se escondem no Rio de Janeiro. Eles terão que realizar uma última missão na cidade e, para isso, vão reunir uma equipe de super pilotos.(n)</desc>
+  </programme>
+  <programme start="20211024173500 +0000" stop="20211024185000 +0000" channel="GLOBOSP">
+    <title lang="pt">Zig Zag Arena</title>
+    <desc lang="pt">Esportes e brincadeiras da infância numa megaprodução no programa apresentado por Fernanda Gentil, que conta ainda com Everaldo Marques, Hortência e Marco Luque, narrador e comentaristas das partidas.(n)</desc>
+  </programme>
+  <programme start="20211024185000 +0000" stop="20211024210500 +0000" channel="GLOBOSP">
+    <title lang="pt">Futebol</title>
+    <desc lang="pt">Náutico x Vasco.(n)</desc>
+  </programme>
+  <programme start="20211024210500 +0000" stop="20211024233000 +0000" channel="GLOBOSP">
+    <title lang="pt">Domingão Com Huck</title>
+    <desc lang="pt">‘Domingão com Huck’ leva aos brasileiros entretenimento, diversão, emoção e novas descobertas nos quadros ‘Show dos famosos’ e ‘Quem quer ser um milionário?’ e em matérias especiais pelo país.(n)</desc>
+  </programme>
+  <programme start="20211024233000 +0000" stop="20211025022500 +0000" channel="GLOBOSP">
+    <title lang="pt">Fantástico</title>
+    <desc lang="pt">Reportagens especiais e as notícias mais importantes da semana, com apresentação de Tadeu Schmidt e Poliana Abritta.(n)</desc>
+  </programme>
+  <programme start="20211025022500 +0000" stop="20211025042500 +0000" channel="GLOBOSP">
+    <title lang="pt">Domingo Maior - Corações De Ferro</title>
+    <title lang="en">Fury</title>
+    <desc lang="pt">Durante o final da Segunda Guerra Mundial, um grupo de cinco soldados americanos é encarregado de atacar os nazistas dentro da própria Alemanha. Apesar de estarem em quantidade inferior e terem poucas armas, eles são liderados pelo enfurecido Wardaddy, sargento que pretende levá-los à vitória, enquanto ensina o novato Norman a lutar.(n)</desc>
+  </programme>
+  <programme start="20211025042500 +0000" stop="20211025055500 +0000" channel="GLOBOSP">
+    <title lang="pt">Cinemaço - Batalha Dos Impérios</title>
+    <title lang="en">Tian Jiang Xiong Shi</title>
+    <desc lang="pt">No ano 48 A.C., soldados romanos perdidos peregrinam pela China para encontrar seu caminho. Enquanto isso, o comandante chinês Huo An é tomado por forças que o escravizam.(n)</desc>
+  </programme>
+  <programme start="20211025055500 +0000" stop="20211025070000 +0000" channel="GLOBOSP">
+    <title lang="pt">Corujão I - Jesse Stone: Perdido No Paraíso</title>
+    <title lang="en">Jesse Stone: Lost In Paradise</title>
+    <desc lang="pt">Enquanto tudo caminha com tranquilidade, o policial Jesse Stone aceita reabrir um caso em Boston. A justiça local culpou um serial killer pela morte de uma prostituta, mas Stone suspeita que o verdadeiro assassino ainda está livre.(n)</desc>
+  </programme>
+  <programme start="20211025070000 +0000" stop="20211025090000 +0000" channel="GLOBOSP">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+  </programme>
+  <programme start="20211025090000 +0000" stop="20211025113000 +0000" channel="GLOBOSP">
+    <title lang="pt">Bom Dia Rio</title>
+    <desc lang="pt">As primeiras notícias do Rio de Janeiro, apresentadas por Flávio Fachel, com prestação de serviço, boletins de trânsito e previsão do tempo.(n)</desc>
+  </programme>
+  <programme start="20211025113000 +0000" stop="20211025123000 +0000" channel="GLOBOSP">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+  </programme>
+  <programme start="20211025123000 +0000" stop="20211025134500 +0000" channel="GLOBOSP">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+  </programme>
+  <programme start="20211025134500 +0000" stop="20211025150000 +0000" channel="GLOBOSP">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+  </programme>
+  <programme start="20211025150000 +0000" stop="20211025160000 +0000" channel="GLOBOSP">
+    <title lang="pt">RJ1</title>
+    <desc lang="pt">O telejornal, apresentado por Mariana Gross, exibe as principais notícias do Rio, com prestação de serviço e previsão do tempo.(n)</desc>
+  </programme>
+  <programme start="20211025160000 +0000" stop="20211025162500 +0000" channel="GLOBOSP">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia.(n)</desc>
+  </programme>
+  <programme start="20211025162500 +0000" stop="20211025180000 +0000" channel="GLOBOSP">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+  </programme>
+  <programme start="20211025180000 +0000" stop="20211025194000 +0000" channel="GLOBOSP">
+    <title lang="pt">Sessão da Tarde - Uma Prova De Amor</title>
+    <title lang="en">My Sister's Keeper</title>
+    <desc lang="pt">Desde o nascimento, Anna foi submetida a diversos procedimentos médicos para ajudar a irmã mais velha, Kate, que sofre de leucemia. Ao completar onze anos, Anna decide enfrentar os pais, Sara e Brian fitzgerald, e lutar na justiça por sua emancipação médica. Sem revelar os seus verdadeiros motivos, ela irá abalar a vida de toda a família.(n)</desc>
+  </programme>
+  <programme start="20211025194000 +0000" stop="20211025205500 +0000" channel="GLOBOSP">
+    <title lang="pt">Vale a Pena Ver de Novo - O Clone</title>
+    <desc lang="pt">A história acompanha a trajetória de vida de Jade, filha de muçulmanos, e Lucas. A trama de Glória Perez aborda a cultura árabe e a clonagem humana.(n)</desc>
+  </programme>
+  <programme start="20211025205500 +0000" stop="20211025212500 +0000" channel="GLOBOSP">
+    <title lang="pt">Malhação - Sonhos</title>
+    <desc lang="pt">Malhação - Sonhos aborda o amadurecimento dos jovens ao longo da busca pelos seus sonhos e é ambientada, principalmente, em dois universos: a Escola de Arte Ribalta e a Academia de Lutas do Gael.(n)</desc>
+  </programme>
+  <programme start="20211025212500 +0000" stop="20211025221000 +0000" channel="GLOBOSP">
+    <title lang="pt">Nos Tempos do Imperador</title>
+    <desc lang="pt">A novela acompanha momentos importantes da vida de Pilar, Jorge/Samuel, o imperador Dom Pedro II, a imperatriz Teresa Cristina e Luísa, a condessa de Barral, ao longo dos anos, e traz uma história de amor e esperança, com elementos históricos, que remetem aos dias atuais.(n)</desc>
+  </programme>
+  <programme start="20211025221000 +0000" stop="20211025224000 +0000" channel="GLOBOSP">
+    <title lang="pt">RJ2</title>
+    <desc lang="pt">Telejornal que traz as notícias locais, mostrando o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.(n)</desc>
+  </programme>
+  <programme start="20211025224000 +0000" stop="20211025233000 +0000" channel="GLOBOSP">
+    <title lang="pt">Pega Pega</title>
+    <desc lang="pt">'Pega Pega’ vai mostrar como o roubo de 40 milhões de dólares do cofre de um hotel cinco estrelas, praticado por quatro funcionários, afeta a vida de todos os personagens.(n)</desc>
+  </programme>
+  <programme start="20211025233000 +0000" stop="20211026003000 +0000" channel="GLOBOSP">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
+</tv>
